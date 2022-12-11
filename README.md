@@ -10,7 +10,6 @@ Nessa simulação cada filosofo é uma thread e cada garfo um mutex, e nosso tra
 ``` make cclean ```
 - execute o programa com os argumentos desejados
 ```./philo 4 410 200 200 7 ```
-``` ./philo 3 310 200 100 7```
 
 ## Argumentos
 
