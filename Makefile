@@ -12,7 +12,7 @@
 
 NAME = philo
 
-CC = gcc
+CC = clang
 CFLAGS = -Wall -Wextra -Werror -pthread
 INCLUDES = -I philosophers.h
 RM = rm -rf
